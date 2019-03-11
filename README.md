@@ -2,7 +2,7 @@
 
 ## Commands
 
-The following command shortcuts are available during development for you :
+The following command shortcuts are available during development for you l:
 
 * `npm install`: Installs all NPM dependencies.
 * `npm start`: Starts a local web server at `http://localhost:8000` (can be overwritten with env vars).
