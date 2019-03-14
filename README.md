@@ -1,4 +1,4 @@
-# Sample kintoblock provide Microservice
+# Sample kintoblock provide Microservices
 
 ## Commands
 
